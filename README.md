@@ -13,7 +13,7 @@ Welcome to the repository for **Climb High**, a solo-developed 3D vertical platf
 
 ---
 
-### 🖼️ In-Game Screenshots
+### In-Game Screenshots
 
 | Main character | The Forest Floor | Jumping to Platforms |
 | :---: | :---: | :---: |
@@ -21,7 +21,7 @@ Welcome to the repository for **Climb High**, a solo-developed 3D vertical platf
 
 ---
 
-### ✨ Key Features
+### Key Features
 
 * **Unforgiving Vertical Challenge:** The entire game is one continuous vertical level. Every jump is critical, and a single missed ledge can send you plummeting back down.
 * **Physics-Based Precision Platforming:** The player's movement is entirely physics-based, requiring careful control over jump height and direction.
@@ -29,7 +29,7 @@ Welcome to the repository for **Climb High**, a solo-developed 3D vertical platf
 
 ---
 
-### 💻 Technical Implementation
+### Technical Implementation
 
 As the sole developer, I was responsible for all core systems, written in C#:
 
@@ -39,7 +39,7 @@ As the sole developer, I was responsible for all core systems, written in C#:
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
 * **Game Engine:** Unity
 * **Language:** C#
